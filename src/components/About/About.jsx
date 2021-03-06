@@ -39,14 +39,14 @@ const About = () => {
               <div className="about-wrapper__info">
                 <p className="about-wrapper__info-text">
                   {paragraphOne ||
-                    'Bar, Pub, Europeiskt, Skandinaviskt, Lunch, Bra för vegetarianer'}
+                    'Bar - Pub - Europeiskt, Skandinaviskt - Lunch - Bra för vegetarianer'}
                 </p>
                 <p className="about-wrapper__info-text">
                   {paragraphTwo ||
                     '14 Tjärhovsgatan, Stockholm 116 21 Sverige, Södermalm, 1,2 km från Gamla Stan'}
                 </p>
                 <p className="about-wrapper__info-text">
-                  {paragraphThree || 'Ring +46 8 641 24 70'}
+                  {paragraphThree || 'Öppettider: 15:00 - 20:00. För kontakt ring +46 8 641 24 70'}
                 </p>
                 {resume && (
                   <span className="d-flex mt-3">
