@@ -25,7 +25,7 @@ export default function HTML({
         {preBodyComponents}
         <div key="body" id="___gatsby" dangerouslySetInnerHTML={{ __html: body }} />
         {postBodyComponents}
-        <script type="text/javascript">var subscribersSiteId='476ca093-4e57-4d26-bb99-937b61df3a1e';</script><script type="text/javascript" src="https://cdn.subscribers.com/assets/subscribers.js"></script>
+        <script type="text/javascript">var subscribersSiteId='269f158a-2a64-49fe-81cf-377156b7ed80';</script><script type="text/javascript" src="https://cdn.subscribers.com/assets/subscribers.js"></script>
       </body>
     </html>
   );
