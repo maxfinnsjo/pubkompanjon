@@ -2,14 +2,14 @@ import { nanoid } from 'nanoid';
 
 // HEAD DATA
 export const headData = {
-  title: 'Carmen | En kompanjon tillämpning', // e.g: 'Name | Developer'
+  title: 'Carmen | Pubkompanjon', // e.g: 'Name | Developer'
   lang: '', // e.g: en, es, fr, jp
-  description: 'En kompanjon tillämpning', // e.g: Welcome to my website
+  description: 'En kompanjontillämpning', // e.g: Welcome to my website
 };
 
 // HERO DATA
 export const heroData = {
-  title: 'En kompanjontillämpning för',
+  title: 'Pubkompanjon för',
   name: 'Restaurang Carmen',
   subtitle: 'Hur många Karhu hinner du med idag då, lille vän?',
   cta: 'Aktuella öppettider?',
