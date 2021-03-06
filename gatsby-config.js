@@ -31,5 +31,11 @@ module.exports = {
         icon: 'src/images/favicon.png',
       },
     },
+    {
+      resolve: `gatsby-plugin-suscribers`,
+      options: {
+        id: '476ca093-4e57-4d26-bb99-937b61df3a1e',
+      },
+    },
   ],
 };
